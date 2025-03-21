@@ -2,7 +2,7 @@ build:
   version: "5.0"
 
 cards:
-  message: "Welcome to EazyBank cards related Q+A APIs with Pranay"
+  message: "Welcome to EazyBank cards related Q+A APIs with Pranay using WebHook"
   contactDetails:
     name: "Reine Aishwarya - QA"
     email: "aishwarya@eazybank.com"
