@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related Production APIs by Pranay bhau "
   contactDetails:
-    name: "Smitha Ray - QA Lead"
+    name: "Smitha Ray - Prodn Lead"
     email: "smitha@eazybank.com"
   onCallSupport:
     - (666) 265-3765
